@@ -1,0 +1,13 @@
+{
+  "name": "Moxer Coin",
+  "symbol": "MXR",
+  "description": "MXR is the official Play-to-Earn utility token of Snake Online. Players earn MXR by playing the game and can transfer, trade, or use it within the Snake Online ecosystem on Solana.",
+  "image": "https://raw.githubusercontent.com/visiongoat/mxrToken/main/mxrtoken.png",
+  "external_url": "https://snakeonline.io",
+  "attributes": [
+    { "trait_type": "Project", "value": "Snake Online" },
+    { "trait_type": "Category", "value": "Play-to-Earn" },
+    { "trait_type": "Blockchain", "value": "Solana" },
+    { "trait_type": "Token Type", "value": "Utility" }
+  ]
+}
